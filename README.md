@@ -12,5 +12,6 @@ This repo is a day-by-day log of the labs I complete: what the vulnerability act
 - **[Day 4 — Cross-Site Scripting](day4-cross-site-scripting.md)** — 10 labs
 - **[Day 5 — Business Logic Vulnerabilities](day5-business-logic-vulnerabilities.md)** — 10 labs
 - **[Day 6 — Cross-Site Request Forgery](day6-csrf.md)** — 9 labs
+- **[Day 7 — SSRF & Path Traversal](day7-ssrf-and-path-traversal.md)** — 10 labs
 
 More days will be added as I keep working through the Academy.
