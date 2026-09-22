@@ -15,5 +15,6 @@ This repo is a day-by-day log of the labs I complete: what the vulnerability act
 - **[Day 7 — SSRF & Path Traversal](day7-ssrf-and-path-traversal.md)** — 10 labs
 - **[Day 8 — XXE Injection & OS Command Injection](day8-xxe-and-os-command-injection.md)** — 10 labs
 - **[Day 9 — File Upload Vulnerabilities & Information Disclosure](day9-file-upload-and-information-disclosure.md)** — 10 labs
+- **[Day 10 — Prototype Pollution](day10-prototype-pollution.md)** — 9 labs
 
 More days will be added as I keep working through the Academy.
