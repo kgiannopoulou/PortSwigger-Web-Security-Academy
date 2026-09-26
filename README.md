@@ -18,5 +18,6 @@ This repo is a day-by-day log of the labs I complete: what the vulnerability act
 - **[Day 10 — Prototype Pollution](day10-prototype-pollution.md)** — 9 labs
 - **[Day 11 — JWT Attacks & Clickjacking](day11-jwt-and-clickjacking.md)** — 10 labs
 - **[Day 12 — API Testing & GraphQL API Vulnerabilities](day12-api-testing-and-graphql.md)** — 10 labs
+- **[Day 13 — Server-Side Template Injection & NoSQL Injection](day13-ssti-and-nosql-injection.md)** — 7 labs
 
 More days will be added as I keep working through the Academy.
